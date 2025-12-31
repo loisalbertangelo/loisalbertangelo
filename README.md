@@ -1,4 +1,4 @@
-# Hi, I'm Lois Angelo 👋
+# Hi, I'm Lois!
 
 MPH student and public health professional focused on **epidemiology**, aging, and health equity.  
 Using data, code, and clear communication to support better decisions in public health.
