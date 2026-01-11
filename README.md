@@ -24,10 +24,3 @@ Using data and my previous career experiences to support better decisions in pub
 ## What You’ll Find On My GitHub
 
 - LegiScan data scraper for legislation on aging.
-
----
-
-## Let’s Connect
-
-- LinkedIn: *(https://www.linkedin.com/in/lois-angelo/)*
-- Writing Portfolio: *(https://www.clippings.me/users/loisalbertangelo)*
